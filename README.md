@@ -28,7 +28,9 @@ amba/
 
 - **ARM IHI 0022J** (2023-03): AMBA AXI and ACE Protocol Specification
 - **ARM IHI 0051A**: AMBA AXI4-Stream Protocol Specification
-- **ARM IHI 0061**: AMBA Low Power Interface Specification
+- **ARM IHI 0068**: AMBA Low Power Interface Specification
+
+> 📄 各协议族最新版官方 PDF 见 [`pdf/`](pdf/README.md) 目录（APB / AHB / AXI+ACE / AXI5+ACE5 / AXI4-Stream / ATB / CHI / LPI）。
 
 ## 相关资源
 
